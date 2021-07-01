@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue, Erlang, Elixir, Next, Nuxt, Jekyll**
 
-- 👨‍💻 All of my projects are available in My [https://github.com/VHenrique05](Github Profile)
+- 👨‍💻 All of my projects are available in My [https://github.com/VHenrique05](Profile)
 
 - 💬 Ask me about **python**
 
