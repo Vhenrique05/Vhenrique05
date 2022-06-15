@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vitor Henrique</h1>
 <h3 align="center">A Student, Gamer & developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vhenrique05" alt="vhenrique05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vhenrique05&theme=onedark" alt="vhenrique05" /></a> </p>
 
 - 🌱 I’m currently learning **Vue and React Native**
 
 - 👨‍💻 All of my projects are available in [My Github Profile](https://github.com/VHenrique05)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python** or **anime**
+<!-- hentai too lol -->
 
 - 📫 How to reach me **vhenrique05@outlook.com**
 
